@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Monitor Sony CPD E200",
+		"description": "Monitor CRT 19 pulgadas Trinitron",
+		"price": 22400,
+		"code": "SN19",
+		"thumbnail": "www.google.com/sonycpde200",
+		"stock": 5,
+		"id": 1
+	},
+	{
+		"title": "Monitor Samsung Syncmaster 995MB",
+		"description": "Monitor CRT 14 pulgadas",
+		"price": 3200,
+		"code": "SM3",
+		"thumbnail": "www.google.com/samsungsync3",
+		"stock": 1,
+		"id": 3
+	}
+]
